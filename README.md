@@ -2,7 +2,9 @@
 ### 项目介绍
 	这是一个基于树莓派用opencv和face++做人脸对比的，可以运行在app上的（局域网）视频监控
 	用mjpg打开摄像头并用http流显示出来，opencv用来做人脸识别，face++用来做人脸对比
-	app获取mjpg的视频流，显示出来
+	app获取mjpg的视频流，显示出来。
+	1111
+	2222
 ### 各文件介绍
 *	MyApplication
 		整个app工程
